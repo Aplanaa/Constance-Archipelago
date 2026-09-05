@@ -6,7 +6,7 @@ It randomizes the main items of Constance into a multiworld, which you can share
 
 ## What does the randomizer have?
 
-- Many randomized items: abilities, chests, heart pieces, flasks, health vials, and boss checks.
+- Many randomized items: abilities, chests, heart pieces, flasks, health vials, erasers, and boss checks.
 - Different traps to get in the multiworld
 - It includes an in game tracker with information and logic
 - Warp between the different shrines after getting them
@@ -103,4 +103,4 @@ I want to be clear, AI has been used to create this Archipelago. This just start
 
 ## Feedback and bug reports
 
-Please report any bugs in logic or gameplay that you may encounter, with enough information to replicate it, if you can, attach the file at `...\Constance\BepInEx\LogOutput.log`. Please expect some level of error in this Archipelago.
+Please report any bugs in logic or gameplay that you may encounter in the Issues tab, with enough information to replicate it, if you can, attach the file at `...\Constance\BepInEx\LogOutput.log`. Please expect some level of error in this Archipelago.
